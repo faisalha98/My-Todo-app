@@ -24,7 +24,8 @@ abstract class TaskDatabase : RoomDatabase() {
 
           val dao =  database.get().taskDao()
             applicationScope.launch {
-                dao.insert(Task(""))
+                dao.insert(Task("visit my mom",important = true))
+                dao.insert(Task("buy from supermarket",important = true,completed = true))
                 // اضيف اي شي دايركت عاللسته عند تشغيل البرنامج
             }
 
