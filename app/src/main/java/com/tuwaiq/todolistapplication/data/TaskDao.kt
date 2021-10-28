@@ -1,7 +1,6 @@
 package com.tuwaiq.todolistapplication.data
 
 import androidx.room.*
-import com.tuwaiq.todolistapplication.ui.tasks.SortOrder
 import kotlinx.coroutines.flow.Flow
 
 @Dao
