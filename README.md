@@ -16,7 +16,7 @@ i take it a challinge for me , to do it in 1 week .
 ## :camera_flash: Screenshots
 ---
 ### screenshot_1
-<img src="https://user-images.githubusercontent.com/91477096/139554345-da11191c-192e-4ace-a144-482b6dbb6514.png" width="260">
+<img src="https://user-images.githubusercontent.com/91477096/139555544-0c045ac5-03ac-4b40-bd56-d0fc2e49e52d.png" width="260">
 
 ### screenshot_2
-<img src="/results/screenshot_2.png" width="260">
+<img src="https://user-images.githubusercontent.com/91477096/139555623-5d8896e4-a52b-41c3-b4db-92a813e96c65.png" width="260">
