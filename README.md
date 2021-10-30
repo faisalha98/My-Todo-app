@@ -6,7 +6,8 @@
 
 ## :scroll: Description
 ---
-my application is todo list can add and delete and edit your list and can .
+my application is todo list can add and delete and edit your list and there is icon for searching for the list, display the list sort by name or sort by date created
+and check box if the task has been completed and another check box for the tasks if its impotant .
 
 
 ## :bulb: Motivation and Context
